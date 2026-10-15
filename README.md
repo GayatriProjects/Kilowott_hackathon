@@ -1,10 +1,8 @@
+**SyncKart - Product Information Management (PIM) & eCommerce Synchronizer**
 
-SyncKart - Product Information Management (PIM) & eCommerce Synchronizer
+An intuitive Product Information Management (PIM) platform that allows shop owners to manage inventory locally and synchronize products to a live WooCommerce store with a single click. 🚀🚀
 
-An intuitive Product Information Management (PIM) platform that allows shop owners to manage inventory locally and synchronize products to a live WooCommerce store with a single click. 🚀
-
-
-🚀 Features
+🚀 **Features**
 
 • Centralized Dashboard: View real-time inventory statistics including total products, synced items, and pending sync statuses.
 • Local PIM Registry: Add and manage products locally with details like Name, SKU, Price, and Stock before pushing them live.
@@ -12,15 +10,15 @@ An intuitive Product Information Management (PIM) platform that allows shop owne
 • Instant Customer Availability: Synchronized products instantly reflect on the front-end customer shop page, ready to be added to carts and purchased.
 • Automated Data Protection: Built-in safeguards handle duplicate SKU updates dynamically to prevent inventory overwriting.
 
-📋 Prerequisites
+📋 **Prerequisites**
+
 Before running this application, make sure you have the following installed:
+• Python 3.10+ - Download Python
+• Node.js 18+ - Download Node.js
+• npm (comes with Node.js)
+• Google API Key - Get API Key
 
-Python 3.10+ - Download Python
-Node.js 18+ - Download Node.js
-npm (comes with Node.js)
-Google API Key - Get API Key
-
-Project Structure
+**Project Structure**
 credit-memo-gen/
 ├── client/          # React frontend application
 │   ├── src/
@@ -39,17 +37,17 @@ credit-memo-gen/
     └── .env               # Environment variables (create this)
 
 
-🔧 Installation & Setup
+🔧 **Installation & Setup**
 
 
-1️⃣ Clone the Repository
+1️⃣ # Clone the Repository
 
 bash
 git clone <repository-url>
 cd Kilowott-hackathon-gayatri-main
 
 
-2️⃣ Backend Setup (Python/Flask)
+2️⃣ # Backend Setup (Python/Flask)
 
 Navigate to Server Directory
 Navigate to Server Directory
