@@ -5,9 +5,13 @@ An intuitive Product Information Management (PIM) platform that allows shop owne
 ## 🚀 Features
 
 • Centralized Dashboard: View real-time inventory statistics including total products, synced items, and pending sync statuses.
+
 • Local PIM Registry: Add and manage products locally with details like Name, SKU, Price, and Stock before pushing them live.
+
 • One-Click Live Sync: Instantly publish pending local products directly to a live, production WooCommerce store using real-time API integrations.
+
 • Instant Customer Availability: Synchronized products instantly reflect on the front-end customer shop page, ready to be added to carts and purchased.
+
 • Automated Data Protection: Built-in safeguards handle duplicate SKU updates dynamically to prevent inventory overwriting.
 
 ## 📋 Prerequisites
